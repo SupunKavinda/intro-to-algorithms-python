@@ -1,0 +1,1 @@
+I started learning ["Introduction to Algorithms"](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) in July 2021. All algorithms in the book is written in psuedo code. While learning, I wrote all algorithms in Python, and this repository contains all the code.
